@@ -5,12 +5,12 @@
 ### Hi there 👋 I'm Tiaan Kemp
 
 🚀 I’m a passionate and curious learner with a strong foundation in technology, project management, and practical leadership.  
-💡 I combine academic knowledge with hands-on experience gained from diverse training programs and real-world problem solving.
+💡 I combine academic knowledge with hands-on experience gained from diverse training programs and real-world problem-solving.
 
 ---
 
 ### 🔭 I’m currently working on:
-- A university project involving AI-based detection and community-focused web platforms  
+- A university project involving monitoring of generators and displaying their diagnostics on a dashboard, as well as utilising AI for optimisations
 - Java-based web systems with authentication, PostgreSQL integration, and full MVC architecture  
 - IoT security and MQTT broker communication
 
@@ -36,7 +36,7 @@
 
 ### 📫 How to reach me:
 - 📧 tiaankemp1@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here/) (Update this with your actual LinkedIn)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiaan-kemp-31a4ba241/)
 
 ### ⚡ Fun fact:
 I've completed training in wilderness survival, self-defense, etiquette, scuba diving, and even abseiling—because I believe great developers thrive in both mental and physical resilience 💪
