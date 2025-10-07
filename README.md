@@ -48,6 +48,6 @@ I've completed training in wilderness survival, self-defense, etiquette, scuba d
 - [This project applies machine learning techniques to customer segmentation, allowing businesses to group their customers](https://github.com/AnnMariDB/MLG382-Projects/tree/main)
 - [Community portal website](https://github.com/Bianca333-b/WPR381-P-AM-No.10)
 ---
-
+-[CV Website](https://abrahamchristiaancv2025.netlify.app/)
  *"Always learning, always building—both in code and in life."*
 
