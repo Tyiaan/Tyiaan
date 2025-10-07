@@ -45,7 +45,7 @@ I've completed training in wilderness survival, self-defense, etiquette, scuba d
 - [Predictive Maintenece for an IOT connected generator](https://github.com/TarinaSnyman/PRJ_Generator-Monitoring-Solution_ML)
 - [University web app with registration/login and PostgreSQL back end](https://github.com/Tyiaan/BCStudentWellnessSystemMilestone1Finalest)
 - [This program solves Linear Programming and Integer Programming Models and then analyses how the changes in an LP’s parameters change the optimal solution](https://github.com/Tyiaan/LPR381_Project)
-- [This project is to apply machine learning techniques to customer segmentation, allowing businesses to group their customers](https://github.com/AnnMariDB/MLG382-Projects/tree/main)
+- [This project applies machine learning techniques to customer segmentation, allowing businesses to group their customers](https://github.com/AnnMariDB/MLG382-Projects/tree/main)
 - [Community portal website](https://github.com/Bianca333-b/WPR381-P-AM-No.10)
 ---
 
